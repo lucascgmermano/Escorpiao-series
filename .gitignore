@@ -1,0 +1,6 @@
+# excluir arquivos DBF
+*.dbf
+
+# excluir cache e ambiente virtual
+.venv/
+__pycache__/
